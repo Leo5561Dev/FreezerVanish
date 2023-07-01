@@ -1,0 +1,14 @@
+---
+name: Administrador
+version: 0.0.1
+main: Administrador\Loader
+api: 5.0.0
+
+permissions:
+  freezeui.use:
+    description: Permission for FreezeUI Command
+    default: op
+  vanish.use:
+    description: Permission for Vanish Command
+    default: op
+...
