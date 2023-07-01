@@ -1,0 +1,8 @@
+--- #Poggit-CI Manifest. Abra el CI en https://poggit.pmmp.io/ci/Leo5561Dev/FreezerVanish
+Compilar de forma predeterminada: true
+ramas:
+-principal
+Proyectos:
+ CongeladorVanish:
+ Ruta: ""
+... 
